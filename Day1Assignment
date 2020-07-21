@@ -1,0 +1,15 @@
+What is Python? What are the ways to install python in PC?
+Python is an interpreted , high-level programmimg language, Open source so its source code is available in its website and speakable english like commands!!!
+
+Installation ways:-
+1. Download the installation package from Python.org
+2. Download IDE based python which has in-built libraries such as Anaconda distribution(JupyterNotebook, Spyder which has several in-built libraries
+3. Various other IDEs are available.
+
+What are the Code Environments? and its Types
+A code environment is a platform that consists of equipment that can be used for scripting codes, execution, developing, or testing the software.
+Environments are independent
+There are 3 types of environments
+1.Text Editors
+2.Integrated Development Environment
+3. Notebook Environment
